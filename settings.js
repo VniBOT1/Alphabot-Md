@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Robot WhatsApp" //namabot kalian
-global.ownername= "Fvp Full -_- ×፝֟͜×" //nama kalian
+global.ownername= " Full -_- ×፝֟͜×" //nama kalian
 global.myweb ="https://wa.me/6283183321692" //bebas asal jan hapus
 global.youtube = "✓[ZeeoneOfc]" //bebas asal jan hapus
 global.github = "™ CEK [ zeeone-ofc ]" //bebas
@@ -33,14 +33,14 @@ global.email = "Fvp Ofc @gmail.com" //bebas
 global.region = "Medan" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6283183321692'] //premium user
-global.owner = ["6283183321692","0"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6283183321692" // nomor wa kalian
-global.ownernomerr = "+6283183321692" //nmr wa kalian
+global.owner = ["6285770575380","6283183321692"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285770575380" // nomor wa kalian
+global.ownernomerr = "+6285770575380" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.packname = '© Robot WhatsApp' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh Robot WhatsApp' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
