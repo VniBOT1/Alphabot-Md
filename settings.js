@@ -24,8 +24,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Vinn Bot" //namabot kalian
-global.ownername= " Vinn Ganzz" //nama kalian
+global.botname = "VinnBot" //namabot kalian
+global.ownername= " VinnGanzz" //nama kalian
 global.myweb ="https://wa.me/6281257170601" //bebas asal jan hapus
 global.youtube = "✓[ZeeoneOfc]" //bebas asal jan hapus
 global.github = "™ CEK [ zeeone-ofc ]" //bebas
@@ -39,7 +39,7 @@ global.ownernomerr = "6281257170601" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Vinn Bot' //sticker wm ubah
+global.packname = '© VinnBot' //sticker wm ubah
 global.author = 'Di Buat Oleh Vinn Bot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
